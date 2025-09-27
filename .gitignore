@@ -24,6 +24,7 @@ build/
 *.swo
 *.swn
 *.DS_Store
+*.launch
 
 # Logs
 *.log
