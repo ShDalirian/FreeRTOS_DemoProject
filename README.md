@@ -5,7 +5,7 @@ This project is **not a commercial product** — it’s a learning and demonstra
 The goal is to prove (to myself and to potential employers) that I can **configure, structure, and program RTOS-based applications** on STM32 platforms — moving beyond academic research and into practical, industry-ready development.  
 
 ---
-
+<img width="951" height="746" alt="photo_2025-09-27_20-23-28" src="https://github.com/user-attachments/assets/7cf2dd29-6924-4831-90ca-66f31e2a0d43" />
 ## 🔹 Features  
 
 - **RTOS Integration (FreeRTOS):**
